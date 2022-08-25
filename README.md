@@ -1,2 +1,2 @@
 # shuttle
-Shuttle is high availability and high performance spark and flink remote shuffle service.
+Shuttle is a spark and flink remote shuffle service with high availability and performance.
